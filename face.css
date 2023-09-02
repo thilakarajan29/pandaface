@@ -18,6 +18,11 @@ H1{
     position: absolute;
     left: 39vw;
     top: 16vw;
+    transition: all .5s;
+}
+
+.div:hover{
+    transform: scale(1.1);
 }
 
 .left{
